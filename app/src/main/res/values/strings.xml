@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WearOSTemplate</string>
+    <string name="error_notsupported">Bluetooth未サポートの端末です。動作しないので終了します。</string>
+    <string name="error_end">終了</string>
+</resources>
