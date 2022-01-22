@@ -1,0 +1,2 @@
+# And-ForegroundServiceAndHeartBeatSample
+WearOSの脈拍取得サンプルのForegroundService版
